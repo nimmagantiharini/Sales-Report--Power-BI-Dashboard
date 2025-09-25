@@ -3,3 +3,4 @@ Built a Sales_Financial dashboard using Kaggle data to track KPIs like Sales, Pr
 ## Data used
 - <a href="https://github.com/nimmagantiharini/Sales-Report--Power-BI-Dashboard/blob/main/excel%20file.csv"> Raw Dataset of Customer</a>
 ## Dasboards
+- <a href="https://github.com/nimmagantiharini/Sales-Report--Power-BI-Dashboard/blob/main/Task%203%20pbi.pbix"> Raw Dataset of Customer</a>
