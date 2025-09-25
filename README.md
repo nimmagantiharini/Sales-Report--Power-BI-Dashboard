@@ -6,6 +6,8 @@ Built a Sales_Financial dashboard using Kaggle data to track KPIs like Sales, Pr
 - <a href="https://github.com/nimmagantiharini/Sales-Report--Power-BI-Dashboard/blob/main/Task%203%20pbi.pbix"> dashboards of Power BI</a>
 ## Tools Used
 Excel,Power BI
+## Presentation
+- <a href="https://github.com/nimmagantiharini/Sales-Report--Power-BI-Dashboard/blob/main/Task%203%20PPT.pptx"> PPT Link</a>
 ## Features 
 Cards, Time-series, Slicers, Navigation Menu
 ## Key Insights
