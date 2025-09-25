@@ -9,4 +9,4 @@ Excel,Power BI
 ## Features 
 Cards, Time-series, Slicers, Navigation Menu
 ## Key Insights
-The Sales_Financial dashboard highlights steady revenue growth with peak sales in Q4, supported by a positive year-over-year growth rate. Top products and regions contributed significantly to overall sales, while heavy discounting boosted volume but reduced profit margins. Insights also show corporate customers driving higher profitability, with Asia-Pacific emerging as a strong growth region.
+The Sales_Financial dashboard highlights steady revenue growth with peak sales in Q4, supported by a positive year-over-year growth rate. Top products and regions contributed significantly to overall sales, while heavy discounting boosted volume but reduced profit margins. Insights also show corporate customers driving higher profitability, emerging as a strong growth region.
